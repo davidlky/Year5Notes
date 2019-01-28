@@ -16,3 +16,21 @@ Studies of AI
 - Mimic Life: build artificial versions of things
   - heart, animals, etc.
 - understand principles and make machines that embodies them
+
+
+Low Road vs High Road
+
+Cognitive vs Affective Thinking
+
+Traditional AI
+- Environment -> perception -> cognition (-> emotion) -> action -> environment
+
+Socio-Cultural View
+- Environment -> perception -> affect (-> cognition) -> action -> environment
+
+Emotions: New AI
+- AI -> Intelligence = rationality
+- emotions are needed for intelligence
+- low road offers *heuristic* social intelligence
+  - provide a social order
+

@@ -27,3 +27,11 @@ Change record Implementation
   - Save snapshot of each document state (complete or the "difference between" state) (save the model)
 - Command Pattern
   - save commands to execute (un-execute) to change state. (save the command that changed the model)
+
+Add undo manager to model
+
+Undo Problem: paintings, will the overlayed part be just cut then? (since a remove is done!)
+
+- Solution to destructive commands
+  - use forward command undo
+  - do Memento (hence limit the stacks!)
